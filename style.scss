@@ -176,7 +176,7 @@ blockquote {
   margin: 1.8em .8em;
   padding: 0.1em 1em;
   background-color: $xlightGray;
-  font-family: $helveticaNeue;
+  font-family: $georgia;
 }
 
 img {
@@ -256,7 +256,7 @@ img {
   margin: 0;
   color: $darkGray;
   cursor: pointer;
-  font-family: $helveticaNeue; 
+  font-family: $georgia; 
   font-weight: 300;
   font-size: 28px;
 }
@@ -264,7 +264,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   font-size: 14px;
-  font-family: $helveticaNeue;
+  font-family: $georgia;
   
   @include mobile {
     margin: 3px 0;
