@@ -1,9 +1,10 @@
 ---
 layout: post
-title: Mollis Offendit In Mea
-desc: Ex bonorum propriae ius, has id case habeo legimus, decore honestatis est ut.
-proj-url: https://github.com/femmebot/jekyll-grid
-proj-num: 04
+title: Zombies
+desc: 'Ex bonorum propriae ius, has id case habeo legimus, decore honestatis est ut.'
+proj-url: 'https://github.com/femmebot/jekyll-grid'
+proj-num: 4
+published: true
 ---
 
 
@@ -26,4 +27,3 @@ Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto bi
 
 > This is a sample blockquote. Landjaeger shoulder ham capicola. 
 > Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.
-
