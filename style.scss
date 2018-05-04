@@ -258,12 +258,12 @@ img {
   cursor: pointer;
   font-family: $georgia; 
   font-weight: 300;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
-  font-size: 14px;
+  //margin: -5px 0 0 0;
+  font-size: 12px;
   font-family: $georgia;
   
   @include mobile {
