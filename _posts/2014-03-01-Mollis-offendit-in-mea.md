@@ -1,9 +1,8 @@
 ---
 layout: post
-title: Zombies
+title: Zombis
 desc: 'Ex bonorum propriae ius, has id case habeo legimus, decore honestatis est ut.'
-proj-url: 'https://github.com/femmebot/jekyll-grid'
-proj-num: 4
+
 published: true
 ---
 
