@@ -2,8 +2,7 @@
 layout: post
 title: Another Project Title
 desc: Another excerpt or project description goes here
-proj-url: https://github.com/femmebot/jekyll-grid
-proj-num: 02
+
 ---
 
 
