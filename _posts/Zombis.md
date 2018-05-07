@@ -1,5 +1,5 @@
 ---
-layout: bestiario
+layout: post
 title: Zombis
 desc: 'Ex bonorum propriae ius, has id case habeo legimus, decore honestatis est ut.'
 
