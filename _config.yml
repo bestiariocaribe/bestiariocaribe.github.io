@@ -10,14 +10,14 @@ description: Los monstruos del Caribe expuestos al análisis académico
 
 collections:
   bestiario:
-output: true
+    output: true
 
-defaults:
-  - scope:
-      path: ""
-      type: "bestiario"
-    values:
-      layout: bestiario
+#defaults:
+#  - scope:
+  #    path: ""
+   #   type: "bestiario"
+   # values:
+    #  layout: bestiario
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://pbs.twimg.com/profile_images/1779775150/bitty-icon_bigger.gif
