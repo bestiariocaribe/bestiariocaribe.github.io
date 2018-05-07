@@ -2,7 +2,27 @@
 layout: bestiario
 published: true
 ---
+<article class="bestiario">
 
+  {% if page.picture %}
+    <img src="{{ page.picture }}" alt="Photo of a {{ page.title | downcase }}">
+  {% endif %}
+
+  <h1>Monstruo: {{ page.title }}</h1>
+
+  <div class="animal-class {{ page.class | downcase }}">
+    {{ page.class }}
+  </div>
+
+  <div class="animal-family {{ page.family | downcase }}">
+    {{ page.family }}
+  </div>
+
+  <div>
+    {{ content }}
+  </div>
+  
+<!--</article>
 <article class="post">
   <h1>{{ page.title }}</h1>
   
@@ -10,4 +30,6 @@ published: true
     {{ content }}
   </div>
   {% include disqus.html disqus_identifier=page.disqus_identifier %}
+-->
 </article>
+
