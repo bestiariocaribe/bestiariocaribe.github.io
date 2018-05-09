@@ -61,19 +61,6 @@ h1 {
   line-height: 1;
 }
 
-.post {
-  width: 220px;
-  float: left;
-  vertical-align: top;
-  margin: 0 20px 0 0;
-  height: 360px;
-  overflow: hidden;
-  @include mobile {
-    margin: 0 20px;
-    width: 300px;
-  }
-}
-
 
 #home, #bestiario .post {
   width: 220px;
