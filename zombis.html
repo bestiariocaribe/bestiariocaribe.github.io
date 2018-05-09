@@ -15,9 +15,12 @@ image:
      
      <div class="eyebrow"><h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
-      <div class="entry">
+      <!--  setting up a box to call image referenced on post <img src=<a>href="{{ site.baseurl }}"img_fjords.jpg" alt="Fjords" style="width:100%">
+       -->
+     
+       <div class="entry">
       	
-       <!-- <p>{{ post.desc }}</p>
+       <!-- <p>{{ post.desc }}</p> maybe needs an if? 
 -->
         {{ post.desc }}
         {{ post.content | truncatewords:40}}
