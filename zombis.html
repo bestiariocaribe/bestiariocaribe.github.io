@@ -1,0 +1,15 @@
+---
+layout: page
+---
+<ul>
+  <h3>Annotated Bibliography</h3>
+{% for post in site.categories.zombibib %}
+  <li><a href="{{post.url | prepend: site.base.url }}"{{post.title}}>{{post.title}}</a></li>
+  {% endfor %}
+  
+    <h3>Imagenes</h3>
+{% for post in site.categories.zombiimagen %}
+  <li><a href="{{post.url | prepend: site.base.url }}"{{post.title}}>{{post.title}}</a></li>
+  {% endfor %}
+</ul>
+
