@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sample Post 1
-categories: zab
+categories: zombibib
 author: Student 1
 ---
 
