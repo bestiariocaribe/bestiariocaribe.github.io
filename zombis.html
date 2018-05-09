@@ -3,15 +3,30 @@ layout: bestiario
 image: 
   banner: images/first-post.png
 ---
-<ul>
-  <h3>Annotated Bibliography</h3>
-{% for post in site.categories.zombibib %}
-  <li><a href="{{post.url | prepend: site.base.url }}"{{post.title}}>{{post.title}}</a></li>
-  {% endfor %}
   
-    <h3>Imagenes</h3>
+<h3>Annotated Bibliography</h3>
+<div class="posts clearfix">
+
+  {% for post in site.categories.zombibib %}
+  
+    <article class="post">    
+     
+     <div class="eyebrow"><h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+
+      <div class="entry">
+      	<p>{{ post.desc }}</p>
+        {{ post.content | truncatewords:40}}
+   
+       </div>
+      
+    </article>
+  {% endfor %}
+</div>
+  
+  
+<!--    <h3>Imagenes</h3>
 {% for post in site.categories.zombiimagen %}
   <li><a href="{{post.url | prepend: site.base.url }}"{{post.title}}>{{post.title}}</a></li>
   {% endfor %}
 </ul>
-
+-->
