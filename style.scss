@@ -278,7 +278,7 @@ img {
 .site-description {
   margin: -5px 0 0 0;
   font-size: 12px;
-  font-family: $georgia;
+  font-family: $roboto;
   
   @include mobile {
     margin: 3px 0;
@@ -288,8 +288,8 @@ img {
 nav {
   float: right;
   margin-top: 23px;
-  font-family: $helveticaNeue; 
-  font-size: 12px;
+  font-family: $roboto; 
+  font-size: 14px;
   
   @include mobile {
     float: none;
