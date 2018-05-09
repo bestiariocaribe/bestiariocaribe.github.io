@@ -1,12 +1,11 @@
 ---
 layout: post
-title: Sample Post 2
+title: Número 2
 categories: zombibib
 author: Student 2
 ---
 
-
-## Here is my annotated bibliography
+## Comentario
 
 Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.
 
