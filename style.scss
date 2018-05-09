@@ -75,7 +75,7 @@ h1 {
 }
 
 
-#home .post {
+#home #bestiario .post {
   width: 220px;
   float: left;
   vertical-align: top;
@@ -88,7 +88,7 @@ h1 {
   }
 }
 
-#home .post h1 {
+#home #bestiario .post h1 {
   font-size: 24px;
   line-height: 1.2;
   min-height: 60px;
@@ -133,7 +133,7 @@ p {
   margin: 15px 0;
 }
 
-#home p.site-description {
+#home #bestiario p.site-description {
   font-size: 30px;
   font-weight: 300;
   line-height: 40px;
@@ -143,7 +143,7 @@ p {
     margin: 30px 20px 60px 20px;
   }
 }
-#home .entry p {
+#home #bestiario .entry p {
   color: $gray;
 }
 
