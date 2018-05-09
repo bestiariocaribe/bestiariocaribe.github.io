@@ -4,7 +4,7 @@ image:
   banner: images/first-post.png
 ---
   
-<h3>Annotated Bibliography</h3>
+<h2>Fichas bibliográficasy</h2>
 
 <body id="bestiario">
 <div class="posts clearfix">
@@ -13,7 +13,7 @@ image:
   
     <article class="post">    
      
-     <div class="eyebrow"><h2><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h2>
+     <div class="eyebrow"><h3><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h3>
 
       <div class="entry">
       	
@@ -31,11 +31,11 @@ image:
   </div>
   </body>
   
-<h3>Imágenes</h3>
+<h2>Imágenes</h2>
   
 {% for post in site.categories.zombiimagen %}
   
-  <li><a href="{{post.url | prepend: site.base.url }}"{{post.title}}>{{post.title}}</a></li>
+ <a href="{{post.url | prepend: site.base.url }}"{{post.title}}>{{post.title}}</a>
   
   {% endfor %}
  
