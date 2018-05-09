@@ -61,7 +61,8 @@ h1 {
   line-height: 1;
 }
 
-.post {
+
+#home .post {
   width: 220px;
   float: left;
   vertical-align: top;
@@ -74,8 +75,7 @@ h1 {
   }
 }
 
-
-#home #bestiario .post {
+#bestiario .post {
   width: 220px;
   float: left;
   vertical-align: top;
@@ -87,8 +87,16 @@ h1 {
     width: 300px;
   }
 }
+#home .post h1 {
+  font-size: 24px;
+  line-height: 1.2;
+  min-height: 60px;
+  margin: 0 0 12px;
+  letter-spacing: normal;
+  font-weight: 700;
+}
 
-#home #bestiario .post h1 {
+#bestiario .post h1 {
   font-size: 24px;
   line-height: 1.2;
   min-height: 60px;
@@ -143,7 +151,7 @@ p {
     margin: 30px 20px 60px 20px;
   }
 }
-#home #bestiario .entry p {
+#home .entry p {
   color: $gray;
 }
 
