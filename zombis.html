@@ -16,7 +16,10 @@ image:
      <div class="eyebrow"><h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
 
       <div class="entry">
-      	<p>{{ post.desc }}</p>
+      	
+       <!-- <p>{{ post.desc }}</p>
+-->
+        {{ post.desc }}
         {{ post.content | truncatewords:40}}
    
        </div>
