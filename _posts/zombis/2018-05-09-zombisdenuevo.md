@@ -3,6 +3,7 @@ layout: post
 title: Número 2
 categories: zombibib
 author: Student 2
+desc: This is a description for my post 
 published: true
 ---
 ## Comentario
