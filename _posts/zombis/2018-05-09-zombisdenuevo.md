@@ -2,10 +2,17 @@
 layout: post
 title: Número 2
 categories: zombibib
-author: Student 2
+author: Persephone
 published: true
 ---
-Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa **brisket** meatloaf pastrami fatback. Cow t-bone _pork chop_ chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef. Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa **brisket** meatloaf pastrami fatback. Cow t-bone _pork chop_ chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.   
+
+Los fans de los **muertos vivientes** esperan con ansias el regreso de la serie _The Walking Dead_, que vuelve en otra temporada de lúgubres escenas de supervivencia en medio del apocalipsis zombi. Pero, ¿de dónde salió la idea de estas espeluznantes criaturas que salen de su tumba?
+
+Comúnmente se marca el origen de los zombis en la película de bajo presupuesto "La noche de los muertos vivientes".
+
+No obstante, ese largometraje nunca usa la palabra zombi y es una adaptación muy libre de la novela de vampiros de Richard Matheson "Soy leyenda" (I Am Legend), en la que los últimos seres humanos vivos intentan encontrar una cura para el virus del vampirismo.
+
+Los recuentos históricos de las películas de zombis siempre sugieren un origen que se remonta más atrás, a "El zombie blanco" ("White Zombie"), de William Halperin, que apareció pocos meses después de las famosas adaptaciones de Universal Studios de Frankestein y Drácula.  
 
 ## Comentario
 
