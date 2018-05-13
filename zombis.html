@@ -4,8 +4,6 @@ image:
   banner: images/Juanzombis.jpg
 ---
   
-<h2>Fichas bibliográficas</h2>
-
 <body id="bestiario">
 <div class="posts clearfix">
 
@@ -31,9 +29,7 @@ image:
 
   </div>
   </body>
-  
-<h2>Imágenes</h2>
-  
+    
 {% for post in site.categories.zombiimagen %}
   
  <a href="{{post.url | prepend: site.base.url }}"{{post.title}}>{{post.title}}</a>
