@@ -5,9 +5,10 @@ categories: zombibib
 author: Edgar Valdez Villarreal "La Barbie"
 ---
 
-Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead
 
 ## Nefasta noticia
+
+Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead Noticiero con la urgencia de una posible invasión zombie. Extras de la película "Amanecer de los muertos" - Invasión zombie, fin del mundo, Dawn of the dead
 
 > Edgar Valdez Villarreal
 > Edgar Valdez VillarrealEdgar Valdez VillarrealEdgar Valdez VillarrealEdgar Valdez Villarreal
