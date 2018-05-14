@@ -5,7 +5,7 @@ categories: zombibib
 author: Persephone
 published: true
 ---
-{{site.baseurl}}/image/WhiteZombieAvatar.jpg
+{{site.baseurl}}/images/WhiteZombieAvatar.jpg
 
 Los fans de los **muertos vivientes** esperan con ansias el regreso de la serie _The Walking Dead_, que vuelve en otra temporada de lúgubres escenas de supervivencia en medio del apocalipsis zombi. Pero, ¿de dónde salió la idea de estas espeluznantes criaturas que salen de su tumba?
 
