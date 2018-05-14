@@ -16,7 +16,7 @@ url: https://bestiariocaribe.github.io/
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: ""
+baseurl: ""
 
 collections:
   bestiario:
@@ -32,27 +32,6 @@ collections:
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 #avatar: https://pbs.twimg.com/profile_images/1779775150/bitty-icon_bigger.gif
 
-# Jekyll configuration from Zombies reimagined
-
-logo: # 120x120 px default image used for Twitter summary card
-teaser: # 400x250 px default teaser image used in image archive grid
-# locale: en
-url: # http://ds.swarthmore.edu/zombies-reimagined
-feed:
-  path: atom.xml
-
-sass:
-  sass_dir: _scss  #changed from _sass
-  style: compressed
-permalink: /:categories/:title/
-kramdown:
-  toc_levels: 1..2
-highlighter: rouge
-gems:
-  - jekyll-sitemap
-  - jekyll-gist
-  - jekyll-feed
-
 # Site owner
 owner: Persephone Braham
 #  org: University of Delaware Digital Studies Initiative
@@ -62,9 +41,7 @@ owner: Persephone Braham
     ad-client:
     ad-slot:
   bio:
-  avatar: # logo-mccabe-web.png # 160x160 px image for author byline
-  disqus-shortname:
-
+  
 limit_posts: "4"
 
 # Flags below are optional
