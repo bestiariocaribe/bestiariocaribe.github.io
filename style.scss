@@ -19,7 +19,7 @@ html {
 
 body {
 	background: $white;
-font-family: $roboto;
+  font-family: $roboto;
   color: $gray;
   -webkit-font-smoothing: antialiased;
 }
@@ -67,7 +67,7 @@ h1 {
   width: 220px;
   float: left;
   vertical-align: top;
-  margin: 0 20px 20px 0;
+  margin: 0 20px 20px 20px;
   height: 360px;
   overflow: hidden;
   @include mobile {
@@ -80,7 +80,7 @@ h1 {
   width: 220px;
   float: left;
   vertical-align: top;
-  margin: 0 20px 20px 0;
+  margin: 0 20px 20px 20px;
   height: 360px;
   overflow: hidden;
   @include mobile {
@@ -307,7 +307,7 @@ nav {
   margin-top: 23px;
   font-family: $roboto; 
   font-size: 14px;
-	color: green;
+	color: $green;
 		
     @include mobile {
     float: none;
@@ -351,8 +351,8 @@ article {
     font-size: 14px;
     line-height: 20px;
     color: $gray;
-    padding-top: 6px;
-    margin-bottom: 6px;
+    padding-top: 10px;
+    margin-bottom: 10px;
     border-top: 1px solid $medGray;
   }
 
