@@ -207,12 +207,18 @@ blockquote {
 }
 
 img {
+    width: 70%;
+	max-width: 100%;
+}
+
+img #banner {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 70%;
 	max-width: 100%;
 }
+
 
 .date {
   font-size: 60%;
