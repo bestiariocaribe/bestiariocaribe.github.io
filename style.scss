@@ -137,13 +137,13 @@ h3 {
 }
 
 h4 {  
-  font-size: 18px;
+  font-size: 16px;
   color: $gray;
   margin: 18px 0 9px;
 }
 
 p {
-  margin: 15px 0;
+  margin: 10px 0;
 }
 
 #home p.site-description {
@@ -307,8 +307,7 @@ nav {
   margin-top: 23px;
   font-family: $roboto; 
   font-size: 14px;
-	color: $green;
-		
+			
     @include mobile {
     float: none;
     margin-top: 9px;
