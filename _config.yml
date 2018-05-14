@@ -2,10 +2,10 @@
 # This file contains configuration flags to customize your site
 
 # Name of site (displayed in the header)
-name: Bestiario caribeño
+name: "Bestiario caribeño"
 
 # Short bio or description (displayed in the header)
-description: Los monstruos del Caribe expuestos a la crítica
+description: "Los monstruos del Caribe expuestos a la crítica"
 
 collections:
   bestiario:
