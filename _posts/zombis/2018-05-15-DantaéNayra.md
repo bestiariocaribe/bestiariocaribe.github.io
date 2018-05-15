@@ -7,7 +7,8 @@ categories: zombibib
 ---
 ### Dawn of the Dead (1979) por George A. Romero
  
- ![dawn_of_the_dead.preview.jpg]({{site.baseurl}}/_posts/zombis/dawn_of_the_dead.preview.jpg)
+![dawn_of_the_dead.preview.jpg]({{site.baseurl}}/_posts/zombis/dawn_of_the_dead.preview.jpg)
+
 
 **Comentario**
 
@@ -30,5 +31,4 @@ País: Estados Unidos
 
 Minutos: 127 
 
-Año: 1979 
-
+Año: 1979
