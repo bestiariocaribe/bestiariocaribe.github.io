@@ -7,7 +7,7 @@ categories: zombibib
 ---
 ### Dawn of the Dead (1979) por George A. Romero
  
-![dawn_of_the_dead.preview.jpg]({{site.baseurl}}/_posts/zombis/dawn_of_the_dead.preview.jpg)
+![dawn_of_the_dead.preview.jpg]({{site.baseurl}}/images/dawn_of_the_dead.preview.jpg)
 
 
 **Comentario**
