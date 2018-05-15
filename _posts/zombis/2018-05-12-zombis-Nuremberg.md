@@ -1,6 +1,6 @@
 ---
 published: true
-title: 2018-05-12-zombis-Nuremberg.md
+title: Nüremberg
 layout: post
 categories: zombibib
 author: nat
