@@ -2,7 +2,7 @@
 layout: post
 title: México: Posible invasión
 categories: zombibib
-author: Edgar Valdez Villarreal La Barbie
+author: Edgar Valdéz Villarreal La Barbie
 ---
 
 ## Nefasta noticia
