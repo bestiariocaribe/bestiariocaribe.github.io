@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 title: test
 layout: post
 categories: zombibib
