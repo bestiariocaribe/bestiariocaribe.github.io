@@ -1,13 +1,17 @@
 ---
 layout: post
-title: Ficha 4
+title: Romero
 categories: zombibib
-author: humano 4
+author: Q. Ualia
 ---
 
 ![WhiteZombie.jpg]({{site.baseurl}}/images/WhiteZombie.jpg)
 
-Corned beef pig pancetta drumstick tail, andouille spare ribs jowl prosciutto biltong hamburger short loin pork brisket. Frankfurter kielbasa brisket meatloaf pastrami fatback. Cow t-bone pork chop chuck short ribs spare ribs. Pancetta flank porchetta, turkey tail ball tip tri-tip leberkas beef.
+Al enterarse de la muerte de de su "viejo amigo y colaborador" George A. Romero, el famoso novelista Stephen King, uno de los grandes maestros del género del terror, escribió en su cuenta de Twitter: "George, no habrá otro como tú". 
 
-> This is a sample blockquote. Landjaeger shoulder ham capicola.
-> Pork shoulder fatback, flank pork belly rump short loin meatloaf filet mignon kevin turducken spare ribs sirloin short ribs ham hock.
+Y es que Romero, quien falleció a causa de un cáncer de pulmón, fue un cineasta que a partir de las limitadas posibilidades de producción del cine de serie B logro popularizar el género de zombis, que en los últimos años se ha convertido en uno de los más rentables de la industria del entretenimiento. 
+
+Su película 'La noche de los muertos vivientes' fue la que dio el pistolazo inicial a las tramas de terror con aquellos seres sin funcionamiento cerebral y hambrientos de carne. 
+
+> Fue filmada en blanco y negro y protagonizada por el actor negro Duane Jones, toda una apuesta para la industria de aquella época. Fue 
+> filmada en blanco y negro y protagonizada por el actor negro Duane Jones, toda una apuesta para la industria de aquella época.
