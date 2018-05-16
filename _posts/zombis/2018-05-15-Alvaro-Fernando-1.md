@@ -5,7 +5,7 @@ layout: post
 Title: Zombis en The Last of Us
 published: true
 ---
-### Análisis sociobiológico del zombi/infectado en The Last of Us
+### Análisis sociobiológico del zombi/infectado en _The Last of Us_
 
 ![]({{site.baseurl}}//images/2048x1024-the-last-of-us-videogame-6-43-jpg-aae5c92a.jpg)
 
