@@ -5,7 +5,8 @@ layout: post
 categories: zombibib
 author: Elena González Sánchez y Carmen Raya Nájera
 ---
-![get out.jpg]({{site.baseurl}}/image/get out.jpg)
+![get out 2.jpg]({{site.baseurl}}/image/get out 2.jpg)
+
 
 
 ### Racismo en Estados Unidos a través del zombi en _Get out_
