@@ -1,5 +1,9 @@
 ---
-published: false
+Author: Álvaro Villar y Fernando Ruiz
+Categories: zombibib
+layout: post
+Title: Zombis en The Last of Us
+published: true
 ---
 ### Análisis sociobiológico del zombi/infectado en The Last of Us
 
