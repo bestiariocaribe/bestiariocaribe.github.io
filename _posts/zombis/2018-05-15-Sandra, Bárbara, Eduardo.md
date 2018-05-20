@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+title: Propagación en los zombis asiáticos
+author: 'Eduardo Martín Macho, Bárbara Romero Petidier y Sandra Vyera'
+categories: zombibib
+layout: post
 ---
 ### "Biozombie" una película más de zombis. 
 
@@ -14,4 +18,4 @@ El hecho de que Biozombie incluya componentes científicos y biologicos dado el 
 
 Cómo se puede ver, las consequencias de simplificar la transformación del zombi dentro de Hollywood y en películas asiaticas reduce y deshumaniza al zombi como indeseable. Al pintar al zombi de tal manera, el ser medio muerto, medio vivo no es tratado con seriedad y su condición amenazanta alienta a los humanos a manipularlo. En general, la imagen típica hollywoodense presentada en Biozombie no represanta la condición caribeña; su historia de colonización, el capitalismo y la económia azucarera. 
 
-En vez, el zombi es reducido a una simple imagen deshumanizada que convierte en marioneta del entretenimiento mainstream. Es por esto que Biozombie se suma a la larga lista de películas superficiales sobre zombis caníbales que solo quieren morder. 
+En vez, el zombi es reducido a una simple imagen deshumanizada que convierte en marioneta del entretenimiento mainstream. Es por esto que Biozombie se suma a la larga lista de películas superficiales sobre zombis caníbales que solo quieren morder.
