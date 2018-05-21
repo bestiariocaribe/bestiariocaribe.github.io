@@ -1,5 +1,9 @@
 ---
-published: false
+published: true
+title: Propagación en los zombis asiáticos
+author: 'Eduardo Martín Macho, Bárbara Romero Petidier y Sandra Vyera'
+layout: post
+categories: zombibib
 ---
 ### Biozombie (Sun faa sau si) (1998)
 ![biozombie.JPG]({{site.baseurl}}/image/zombis/biozombie.JPG)
