@@ -1,7 +1,7 @@
 ---
 published: true
 title: Propagación en los zombis asiáticos
-author: 'Eduardo Martín Macho, Bárbara Romero Petidier y Sandra Vyera'
+author: 'Eduardo Martín Macho, Bárbara Romero Petidier y Sandra Vieyra'
 layout: post
 categories: zombibib
 ---
