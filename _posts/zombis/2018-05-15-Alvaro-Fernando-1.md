@@ -5,9 +5,8 @@ layout: post
 Title: Zombis en The Last of Us (videojuego)
 published: true
 ---
-### Análisis sociobiológico del zombi/infectado en _The Last of Us_
-
-![]({{site.baseurl}}/images/2048x1024-the-last-of-us-videogame-6-43-jpg-aae5c92a.jpg)
+![image.jpg]({{site.baseurl}}/images/2048x1024-the-last-of-us-videogame-6-43-jpg-aae5c92a.jpg)  
+### Análisis sociobiológico del zombi/infectado en _The Last of Us_  
 
 **Comentario:** El videojuego _The Last of Us_ ofrece a sus jugadores una concepción del zombi muy ligada al muerto viviente _blockbuster_ que encontramos en las películas de Hollywood como _28 Days Later_ (2002), _World War Z_ (2013) o _Night of the Living Dead_ (1968). Bajo una perspectiva sociológica y tomando prestados ciertos elementos de Wonser y Boyns (2016) en su ensayo sobre la figura del zombi, es evidente la manera sistemática en la que este representa las ansiedades de la época en la que se desarrolla (con ejemplos como pérdida de voluntad en _Night of the Living Dead_ o miedo hacia la tecnología en _World War Z_).
 
