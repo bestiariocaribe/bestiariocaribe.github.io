@@ -31,5 +31,3 @@ Compañía 	Naughty Dog
 Lenguaje de programación 	English  
 
 **Resumen:** A couple of survivors brought together by disaster must journey across a post-pandemic U.S. in hopes of freedom from the brutal world left behind.
-
-**Autores:** Fernando Ruíz y Álvaro Villar
