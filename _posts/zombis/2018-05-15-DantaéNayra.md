@@ -5,14 +5,14 @@ author: Dantaé Garee y Nayra Rodríguez
 layout: post
 categories: zombibib
 ---
-### Dawn of the Dead (1979) por George A. Romero
- 
+
 ![dawn_of_the_dead.preview.jpg]({{site.baseurl}}/images/dawn_of_the_dead.preview.jpg)
 
+### _Dawn of the Dead_ (1979) por George A. Romero
 
 **Comentario**
 
-En su libro Malas hierbas (2011), Pedro Cabiya hace una crítica política sobre el cine de George A. Romero; según él 
+En su libro __Malas hierbas__ (2011), Pedro Cabiya hace una crítica política sobre el cine de George A. Romero; según él: 
 
 “el caos y la rápida descomposición del aparato social que sobreviene con la aparición de los muertos vivientes, es una metáfora de las tensiones implícitas de un sistema de convivencia multicultural, y la representación artística por excelencia de la angustia paranoide de la clase media blanca estadounidense” (95) 
 
@@ -23,12 +23,8 @@ La película comienza con un conflicto entre la policía y un vecindario en el q
 En conclusión, el proceso de zombificación en la película no corresponde al zombi tradicional del Caribe al no incluir aspectos referentes a la religiosidad. De esta forma, se mantiene un discurso sobre la identidad del zombi que explora la alteridad como una patología y que, de nuevo, representa esa ansiedad hacia la convivencia racial en Estados Unidos. 
 
 
-Datos de producción
-
-Director: George A. Romero 
-
-País: Estados Unidos 
-
-Minutos: 127 
-
+**Datos de producción**
+Director: George A. Romero  
+País: Estados Unidos  
+Minutos: 127  
 Año: 1979
