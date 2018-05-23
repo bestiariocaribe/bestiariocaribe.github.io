@@ -5,12 +5,10 @@ author: Dominique Roberts y Liz Naranjo
 layout: post
 categories: zombibib
 ---
-### "Night of the Living Dead" por George A. Romero
 
 ![NIGHT OF THE LIVING DEAD 1968 BEYOND HORROR DESIGN.png]({{site.baseurl}}/images/NIGHT OF THE LIVING DEAD 1968 BEYOND HORROR DESIGN.png)
 
-**Comentario**
-La primera película de George A. Romero "Night of the Living Dead", se estrena el 1 de octubre de 1968. Es la historia de un supuesto desastre nuclear en la costa este de Estados Unidos que suscita la aparición de un ataque zombi por contagio. La película comienza en un cementerio en un pueblo rural en Pennsylvania, en el que Barbra y su hermano Johnny se encuentran con un zombi que ataca a Johnny. Barbra escapa y converge con Ben en una casa de hacienda en la que se ven rápidamente rodeados por la amenaza de los zombis.
+**_Night of the Living Dead_ por George A. Romero:** La primera película de George A. Romero "Night of the Living Dead", se estrena el 1 de octubre de 1968. Es la historia de un supuesto desastre nuclear en la costa este de Estados Unidos que suscita la aparición de un ataque zombi por contagio. La película comienza en un cementerio en un pueblo rural en Pennsylvania, en el que Barbra y su hermano Johnny se encuentran con un zombi que ataca a Johnny. Barbra escapa y converge con Ben en una casa de hacienda en la que se ven rápidamente rodeados por la amenaza de los zombis.
 
 Los personajes están constantemente pendientes de la radio y la televisión. Los medios de comunicación masiva influyen en las acciones de los personajes. El mensaje que se envía asegura que es imposible distinguir al zombi y que los sobrevivientes deben acercarse a una zona de refugiados. Los zombis son caníbales, lentos que temen al fuego, y vuelven a la vida en cuestión de minutos. Los medios recomiendan que se quemen los cadáveres para que el cuerpo no vuelva a la vida y se descubre que la solución es dispararles directo a la cabeza.
 
