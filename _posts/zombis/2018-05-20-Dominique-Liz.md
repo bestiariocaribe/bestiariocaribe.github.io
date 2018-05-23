@@ -18,27 +18,25 @@ En cuanto a la figura del zombi, la película no menciona la palabra "zombi", si
 
 **Autoras del comentario**: Naranjo, Lis y Roberts, Dominique
 
-Type 	Video Recording
-Director 	John Russo
-Director 	George A Romero
-Director 	Russ Streiner
-Director 	Karl Hardman
-Director 	Duane Jones
-Director 	Judith O'Dea
-Director 	Keith Wayne
-Director 	Judith Ridley
-Director 	Image Ten (Firm)
-Director 	Elite Entertainment (Firm)
-Director 	Ltd Lucasfilm
-Place 	Rockaway, NJ
-Date 	2001
-Extra 	OCLC: 54491317
-Library Catalog 	Open WorldCat
-Studio 	Elite Entertainment, Inc.
-Language 	English
-Abstract 	Perhaps the last hope for humanity hide in a abandoned house from carnivorous walking corpses revived by radiation fallout. This Millennium Edition of George Romero's horror classic has been restored and includes many extras exclusive to this collector's release.
-Date Added 	5/15/2018, 9:56:25 AM
-Modified 	5/15/2018, 11:06:04 AM
-Tags:
-
-    caníbal zombi
+Type 	Video Recording  
+Director 	John Russo  
+Director 	George A Romero  
+Director 	Russ Streiner  
+Director 	Karl Hardman  
+Director 	Duane Jones  
+Director 	Judith O'Dea  
+Director 	Keith Wayne  
+Director 	Judith Ridley  
+Director 	Image Ten (Firm)  
+Director 	Elite Entertainment (Firm)  
+Director 	Ltd Lucasfilm  
+Place 	Rockaway, NJ  
+Date 	2001  
+Extra 	OCLC: 54491317  
+Library Catalog 	Open WorldCat  
+Studio 	Elite Entertainment, Inc.  
+Language 	English  
+Abstract 	Perhaps the last hope for humanity hide in a abandoned house from carnivorous walking corpses revived by radiation fallout. This Millennium Edition of George Romero's horror classic has been restored and includes many extras exclusive to this collector's release.  
+Date Added 	5/15/2018, 9:56:25 AM  
+Modified 	5/15/2018, 11:06:04 AM  
+Tags:    caníbal zombi
