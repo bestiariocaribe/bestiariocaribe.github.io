@@ -10,7 +10,7 @@ categories: zombibib
 
 ### _Dawn of the Dead_ (1979) por George A. Romero
 
-**Comentario:** 
+**Comentario:**   
 En su libro _Malas hierbas_ (2011), Pedro Cabiya hace una crítica política sobre el cine de George A. Romero; según él: 
 
 “el caos y la rápida descomposición del aparato social que sobreviene con la aparición de los muertos vivientes, es una metáfora de las tensiones implícitas de un sistema de convivencia multicultural, y la representación artística por excelencia de la angustia paranoide de la clase media blanca estadounidense” (95) 
