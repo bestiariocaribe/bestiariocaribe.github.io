@@ -6,7 +6,7 @@ layout: post
 categories: zombibib
 ---
 ![biozombie.JPG]({{site.baseurl}}/image/zombis/biozombie.JPG)  
-### _Biozombie_ (Sun faa sau si) (1998)  
+### _Biozombie_   (Sun faa sau si, 1998)  
 **Comentario**
 
 Esta película fomenta la percepción estadounidense que se tiene del zombi, imagen que se ha vuelto global.
