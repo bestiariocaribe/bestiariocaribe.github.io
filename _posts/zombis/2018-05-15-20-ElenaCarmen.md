@@ -8,7 +8,7 @@ author: Elena González Sánchez y Carmen Raya Nájera
 
 ![get out 2.jpg]({{site.baseurl}}/images/get out 2.jpg)
 
-**Comentario:** Get out no es una película de zombis convencional si se compara con la prolífica producción de películas de este género de las grandes productoras americanas. En este caso, la imagen que se presenta del zombi no cumple con el estereotipo del muerto viviente clásico, es decir, un zombi que sale de la tumba y que busca comerse el cerebro de los vivos.
+**Comentario:** _Get out_ no es una película de zombis convencional si se compara con la prolífica producción de películas de este género de las grandes productoras americanas. En este caso, la imagen que se presenta del zombi no cumple con el estereotipo del muerto viviente clásico, es decir, un zombi que sale de la tumba y que busca comerse el cerebro de los vivos.
 
 Esta película se puede considerar gótica, pues se pueden encontrar muchas de las características de este género, aunque actualizadas para focalizar la crítica en la discriminación de la población negra estadounidense en lugar de centrarse en la marginalización de la mujer, como solía hacerse en la versión tradicional de este tipo de género. En esta película vemos a un protagonista masculino que se traslada durante un fin de semana a la casa de su novia, una masión en la que van apareciendo cada vez más personajes que se comportan de forma extraña. Además, se ve como el protagonista va perdiendo su subjetividad a lo largo de la película y acaba casi convirtiéndose en zombi, al igual que los demás personajes negros que cayeron en manos de la misma familia blanca.
 
