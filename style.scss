@@ -327,10 +327,10 @@ img {
 }
 
 nav {
-  float: right;
+  float: left;
   margin-top: 23px;
   font-family: $roboto; 
-  font-size: 14px;
+  font-size: 1em;
 			
     @include mobile {
     float: none;
@@ -343,7 +343,7 @@ nav {
     color: $green;
     width: 225px;
     display: block;
-    float: right;
+    float: left;
 
     @include mobile {
       display: inline-block;
