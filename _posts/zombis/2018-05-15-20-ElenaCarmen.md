@@ -1,6 +1,6 @@
 ---
 published: true
-title: El zombie moderno en _Get Out_
+title: El zombie moderno en Get Out
 layout: post
 categories: zombibib
 author: Elena González Sánchez y Carmen Raya Nájera
