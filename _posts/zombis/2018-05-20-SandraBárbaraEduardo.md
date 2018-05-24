@@ -1,16 +1,14 @@
 ---
 published: true
-title: Propagación en los zombis asiáticos
-author: 'Eduardo Martín Macho, Bárbara Romero Petidier y Sandra Vyera'
+title: Propagación de  zombis asiáticos
+author: Eduardo Martín Macho, Bárbara Romero Petidier, Sandra Vieyra
 categories: zombibib
 layout: post
 ---
 
-![biozombie.JPG]({{site.baseurl}}/images/biozombie.JPG) 
+![biozombie.JPG]({{site.baseurl}}/images/biozombie.JPG)  
 
-### _Biozombie_ - una película más de zombis. 
-
-**Comentario:** Esta película china fomenta la percepción global que se tiene del zombi. Tomando unos pasos hacia atrás, vemos la figura del zombi como un ser indeseable que amenaza a la sociedad debido a las consequencias de su mordida contagiosa. En general, esta perspectiva se ha difundido globalmente debido al éxito de Hollywood, especificamente por las obras de George A. Romero. 
+**_Biozombie_ - una película más de zombis:** Esta película china fomenta la percepción global que se tiene del zombi. Tomando unos pasos hacia atrás, vemos la figura del zombi como un ser indeseable que amenaza a la sociedad debido a las consequencias de su mordida contagiosa. En general, esta perspectiva se ha difundido globalmente debido al éxito de Hollywood, especificamente por las obras de George A. Romero. 
 
 El proceso de convertirse en zombi inicia con la típica mordida en el cuello de la víctima humana. El zombi muerde porque busca alimentarse para satisfacer sus instinctos caníbales además de propagar su raza. En conexión con otros temas zombiescos más generales, este proceso de transformación es el típico que es proyectado en Hollywood. Es este mismo proceso que el zombi protagonista critica en la novela _Malas Hierbas_ (2010) de Pedro Cabiya. El protagonista critica la falta de complejidad que se le atribuye al proceso de zombificación. Tal proceso como se observar en películas es resultado de Hollywood. Cabiya utiliza al protagonista para reflejar
 sobre la condición de los zombis como seres complejos mientras que _Biozombie_ fomenta la imagen esteriotípica y reduce la transformación a un proceso sencillo. 
