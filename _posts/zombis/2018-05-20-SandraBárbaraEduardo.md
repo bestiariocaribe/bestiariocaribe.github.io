@@ -1,6 +1,6 @@
 ---
 published: true
-title: Propagación de  zombis asiáticos
+title: Biozombie: zombis asiáticos
 author: Eduardo Martín Macho, Bárbara Romero Petidier, Sandra Vieyra
 categories: zombibib
 layout: post
