@@ -1,11 +1,8 @@
 ---
+layout: post
 Author: Álvaro Villar y Fernando Ruiz
 Categories: zombibib
-layout: post
-Title: Zombis en The Last of Us (videojuego)
 published: true
-author: Álvaro Villar y Fernando Ruiz
-categories: zombibib
 title: Zombis en The Last of Us (videojuego)
 ---
 
